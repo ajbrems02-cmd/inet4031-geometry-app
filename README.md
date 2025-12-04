@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # INET 4031 Geometry Application
 
 Simple Python Flask web application for INET 4031
@@ -148,3 +149,7 @@ You will need to duplicate my repo to try this functionality yourself (we will d
 # That's It!
 
 Please take the time to look through the code and understand it.  Better yet, show up to class and participate and learn, and understanding the code will be much easier.
+=======
+# inet4031-geometry-app
+Geometry app created in lab for INET 4031
+>>>>>>> 4da6f454201dcfae5b690ddd0386ef2d4431f9b0
